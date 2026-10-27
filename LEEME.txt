@@ -1,0 +1,21 @@
+LUMA.BAGS.ARG — TIENDA CON CARRITO
+
+CONTENIDO
+- index.html: página y catálogo.
+- styles.css: diseño adaptable a celular y computadora.
+- script.js: carrito, cantidades, subtotal y pedido por WhatsApp.
+- img/: fotos de los productos.
+
+CÓMO PROBAR
+1. Descomprimí esta carpeta.
+2. Abrí index.html en un navegador o abrí la carpeta en Visual Studio Code.
+3. Tocá “Agregar al carrito” en uno o más productos.
+4. En “Tu carrito”, revisá cantidades, subtotal y completá tus datos.
+5. Al enviar el pedido se abrirá WhatsApp con el detalle listo para enviar.
+
+IMPORTANTE
+- El carrito funciona en el navegador y guarda la selección en ese mismo dispositivo.
+- El pedido se envía por WhatsApp; no hay cobro automático ni integración con Mercado Pago.
+- El envío no se calcula automáticamente: Luma.Bags.Arg confirma el costo por WhatsApp.
+- El stock mostrado es informativo. Esta página estática no reserva ni descuenta inventario automáticamente entre diferentes clientas.
+- La tienda y el carrito se pueden alojar en un hosting estático gratuito, como GitHub Pages.
